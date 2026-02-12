@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "APLIKASI PENGHITUNG DATA/1.0.0": {
+        "runtime": {
+          "APLIKASI PENGHITUNG DATA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "APLIKASI PENGHITUNG DATA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
